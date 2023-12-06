@@ -1,5 +1,6 @@
 #
 .idea
+run.sh
 
 # doks
 .eslintcache
