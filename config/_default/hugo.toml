@@ -1,4 +1,4 @@
-title = "My Docs"
+title = "Welcome"
 baseurl = "/"
 canonifyURLs = false
 disableAliases = true
@@ -17,13 +17,13 @@ defaultContentLanguage = "en"
 disableLanguages = ["de", "nl"]
 defaultContentLanguageInSubdir = false
 
-copyRight = "Copyright (c) 2023 Hyas"
+copyRight = "Copyright (c) 2023"
 
 [build.buildStats]
   enable = true
 
 [social]
-  twitter = "getdoks"
+  twitter = "ismailxsimsek"
 
 [outputs]
   home = ["HTML", "RSS", "searchIndex"]
@@ -87,3 +87,6 @@ rel  = "sitemap"
   hint = "photo"
   quality = 75
   resampleFilter = "Box"
+
+[markup.goldmark.renderer]
+hardWraps = true

@@ -1,14 +1,14 @@
 [[main]]
   name = "GitHub"
-  url = "https://github.com/h-enk/hyas"
+  url = "https://github.com/ismailsimsek"
   weight = 10
 
 [[social]]
   name = "LinkedIn"
-  url = "https://www.linkedin.com/in/henkverlinde/"
+  url = "https://www.linkedin.com/in/ismailsimsek/"
   weight = 20
 
 [[social]]
   name = "Twitter"
-  url = "https://twitter.com/henkverlinde"
+  url = ""
   weight = 30
