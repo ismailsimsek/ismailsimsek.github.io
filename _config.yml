@@ -15,18 +15,30 @@ plugins:
 
 # @TODO set with icon!
 aux_links:
-  GitHub:
-    - https://github.com/ismailsimsek
+#  GitHub:
+  <img src="/assets/images/linkedin-logo/linkedin.svg" style="height:135%;">: https://www.linkedin.com/in/ismailsimsek/
+  <img src="/assets/images/github-logo/github-mark.svg" style="height:110%;">: https://github.com/ismailsimsek
+
 aux_links_new_tab: true
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: light
 
 nav_external_links:
-  - title: My GitHub
-    url: https://github.com/ismailsimsek
+  - title: My GitHub Org
+    url: https://github.com/memiiso
     hide_icon: false # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
 
 # @TODO Set a path/url to a favicon that will be displayed by the browser
-# favicon_ico: "/assets/images/favicon.ico"
+#favicon_ico: "/assets/images/favicon.ico"
+#logo: "/assets/images/logo.png"
+
+kramdown:
+  hard_wrap: true
+
+defaults:
+  - scope:
+      path: "poetry"
+    values:
+      layout: "default"
