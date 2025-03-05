@@ -1,0 +1,32 @@
+title: Ismail Simsek
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+#baseurl: "" # the subpath of your site, e.g. /blog
+url: https://ismailsimsek.github.io
+# twitter_username: jekyllrb
+github_username:  ismailsimsek
+linkedin_username: ismailsimsek
+
+theme: just-the-docs
+plugins:
+  - jekyll-feed
+
+# @TODO set with icon!
+aux_links:
+  GitHub:
+    - https://github.com/ismailsimsek
+aux_links_new_tab: true
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: light
+
+nav_external_links:
+  - title: My GitHub
+    url: https://github.com/ismailsimsek
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
+
+# @TODO Set a path/url to a favicon that will be displayed by the browser
+# favicon_ico: "/assets/images/favicon.ico"
