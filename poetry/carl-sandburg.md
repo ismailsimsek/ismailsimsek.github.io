@@ -5,6 +5,7 @@ description: "Explore a carefully selected collection of poems from various auth
 
 ---
 [Carl-Sandburg](https://allpoetry.com/Carl-Sandburg)
+---------------
 
 ## Bricklayer Love
 I thought of killing myself because I am only a bricklayer

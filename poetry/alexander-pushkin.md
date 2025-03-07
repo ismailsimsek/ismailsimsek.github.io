@@ -2,9 +2,8 @@
 title: "Alexander Pushkin"
 parent: "A Curated Collection of Poems"
 ---
-
 [Alexander Pushkin](https://allpoetry.com/Alexander-Sergeyevich-Pushkin)
-
+---------------
 ## Confession
 
 **I LOVE YOU**

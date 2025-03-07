@@ -3,7 +3,7 @@ title: "Sherko Bekas"
 parent: "A Curated Collection of Poems"
 ---
 [Kurdish Poet Sherko Bekas](https://en.wikipedia.org/wiki/Sherko_Bekas)
-
+---------------
 1. TOC
 {:toc}
 
