@@ -1,6 +1,6 @@
 ---
 title: "A Curated Collection of Poems"
-nav_order: 2
+nav_order: 3
 ---
 
 # A Curated Collection of Poems

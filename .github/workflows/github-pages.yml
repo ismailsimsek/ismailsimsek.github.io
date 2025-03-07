@@ -17,7 +17,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Set up Ruby
-#        uses: ruby/setup-ruby@55283cc23133118229fd3f97f9336ee23a179fdf # v1.146.0
         uses: ruby/setup-ruby@v1.221.0
         with:
           ruby-version: '3.3' # Define your ruby version

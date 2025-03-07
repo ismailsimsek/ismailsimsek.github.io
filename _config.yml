@@ -31,6 +31,12 @@ nav_external_links:
     opens_in_new_tab: true # set to true to open this link in a new tab - defaults to false
     nav_order: 800
 
+  - title: My Medium Articles
+    url: https://medium.com/@ismail-simsek
+    hide_icon: false
+    opens_in_new_tab: true
+    nav_order: 801
+
 # @TODO Set a path/url to a favicon that will be displayed by the browser
 #favicon_ico: "/assets/images/favicon.ico"
 #logo: "/assets/images/logo.png"
@@ -43,3 +49,10 @@ defaults:
       path: "poetry"
     values:
       layout: "default"
+  - scope:
+      path: "data-and-analytics"
+    values:
+      layout: "default"
+
+exclude:
+  - serve.sh
