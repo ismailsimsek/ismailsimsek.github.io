@@ -1,6 +1,7 @@
 ---
 layout: about
 title: About Me
+nav_order: 999
 ---
 
 # About me
