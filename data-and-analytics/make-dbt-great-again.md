@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Make dbt great again
-parent: "Data and Analytics Blog Post"
+parent: "Data and Analytics Posts"
 nav_order: 3
 ---
 

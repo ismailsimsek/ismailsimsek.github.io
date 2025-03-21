@@ -1,7 +1,7 @@
 ---
-title: "Data and Analytics Blog Post"
+title: "Data and Analytics Posts"
 nav_order: 2
 ---
 
-# My Technology, Data and Analytics Blog Post
+# My IT, Data and Analytics Blog Posts
 
